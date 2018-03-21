@@ -34,6 +34,7 @@
 	<classpathentry kind="src" path="plugins_xml-input-stream"/>
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="src" path="plugins/webpage-spider-plugin"/>
+	<classpathentry kind="src" path="plugins/solr-plugin"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_67"/>
 	<classpathentry kind="lib" path="libs/antlr-2.7.7.jar"/>
 	<classpathentry kind="lib" path="libs/antlr-3.4-complete.jar"/>

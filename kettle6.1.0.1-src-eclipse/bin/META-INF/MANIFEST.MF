@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.7.0_80-b15 (Oracle Corporation)
+Implementation-Title: Pentaho Data Integration Core
+Implementation-Version: 6.1.0.1-196
+Specification-Version: 1
+Implementation-Vendor: Pentaho Corporation
+Implementation-ProductID: kettle-core
+Compile-Timestamp: 2016-04-07 12.08.38
+Compile-User: buildguy
+
