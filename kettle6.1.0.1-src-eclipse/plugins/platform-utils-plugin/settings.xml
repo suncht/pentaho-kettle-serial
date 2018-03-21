@@ -1,0 +1,3 @@
+<settings>
+  <session-variables-blacklist>pentaho-session-context,SPRING_SECURITY_CONTEXT,roles,IUserSettingService,PENTAHO_TMP_DELETER</session-variables-blacklist>
+</settings>

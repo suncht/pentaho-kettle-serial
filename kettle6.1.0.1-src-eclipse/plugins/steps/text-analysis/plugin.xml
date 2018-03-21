@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+   id="TextAnalysisPlugin"
+   iconfile="DPL.png"
+   description="Text Analysis Plugin"
+   tooltip="This is a text analysis plugin test step"
+   category="Input"
+   classname="com.suncht.di.TextAnalysisMeta">
+   <libraries>
+    <!--<library name="dummy.jar"/>-->
+    </libraries>
+    
+   <localized_category>
+     <category locale="en_US">Input</category>
+     <category locale="nl_NL">Input</category>
+     <category locale="fr_FR">Input</category>
+     <category locale="zh_CN">输入</category>
+   </localized_category>
+   <localized_description>
+     <description locale="en_US">Text Analysis Plugin</description>
+     <description locale="zh_CN">文本提取</description>
+   </localized_description>
+   <localized_tooltip>
+     <tooltip locale="en_US">This is an example for a plugin test step</tooltip>
+   </localized_tooltip>
+   
+</plugin>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+   id="TextAnalysisPlugin"
+   iconfile="DPL.png"
+   description="Text Analysis Plugin"
+   tooltip="This is a Text Analysis"
+   category="文本提取"
+   classname="com.suncht.di.TextAnalysisMeta">
+   <libraries>
+    <library name="text-analysis.jar"/>
+    </libraries>
+    
+   <localized_category>
+     <category locale="en_US">myplugin</category>
+     <category locale="nl_NL">myplugin</category>
+     <category locale="fr_FR">myplugin</category>
+     <category locale="zh_CN">自定义插件</category>
+   </localized_category>
+   <localized_description>
+     <description locale="en_US">my plugin</description>
+     <description locale="zh_CN">文本提取插件</description>
+   </localized_description>
+   <localized_tooltip>
+     <tooltip locale="en_US">This is an example for a plugin test step</tooltip>
+     <tooltip locale="zh_CN">这是自定义插件</tooltip>
+   </localized_tooltip>
+</plugin>
